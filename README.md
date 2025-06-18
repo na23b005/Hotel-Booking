@@ -35,9 +35,10 @@ A full-stack Hotel Booking Web App built using the **MERN stack** (MongoDB, Expr
 
 ## 🧑‍💻 Getting Started
 
-### 1. Clone the Repository
-- git clone https://github.com/na23b005/Hotel-Booking.git
-- cd Hotel-Booking
+1. Clone the Repository
+bash
+git clone https://github.com/na23b005/Hotel-Booking.git
+cd Hotel-Booking
 ### 2. Backend Setup
 -cd backend
 -npm install
