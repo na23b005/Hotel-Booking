@@ -42,19 +42,19 @@ A full-stack Hotel Booking Web App built using the **MERN stack** (MongoDB, Expr
    cd Hotel-Booking
 
 ### 2. Backend Setup  
--cd backend
+cd backend
 
--npm install
+npm install
 
--To start the backend server:
+To start the backend server:
 
--npm start
+npm start
 ### 3. Frontend Setup
 
 In a separate terminal:
 
--cd client
+cd client
 
--npm install
+npm install
 
--npm run dev
+npm run dev
